@@ -1,0 +1,20 @@
+.heading {
+    font-size: 25px;
+    margin-top: 10px;
+    box-shadow: 3px 3px 3px gainsboro;
+    width: 100%;
+}
+#tobe {
+    height: 1.5px;
+    color: black;
+}
+.heading_div {
+    float: none;
+    background: coral;
+    box-shadow: 3px 3px 3px gainsboro;
+    color: darkblue;
+    padding: 10px;
+}
+.heading_div2 {
+    font-size: 18px;
+}
